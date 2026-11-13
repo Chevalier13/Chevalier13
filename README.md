@@ -25,6 +25,7 @@
 ## `01. About Me`
 
 ```java
+
 public class VictorLopes {
 
     String name = "Victor Chevalier Lopes";
@@ -43,6 +44,7 @@ public class VictorLopes {
     String objective =
         "Transforming ideas into practical solutions.";
 }
+
 ```
 
 I'm a Software Engineering student passionate about technology and software development.
