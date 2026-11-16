@@ -159,7 +159,7 @@ I'm always interested in learning, collaborating and exploring new opportunities
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20Lopes-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://www.instagram.com/victor_pbi/">
+  <a href="https://www.instagram.com/victorclps/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
